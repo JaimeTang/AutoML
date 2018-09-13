@@ -25,7 +25,7 @@ boruta 通过创建由目标特征的随机排序值组成的合成特征来确�
 项目地址：https://github.com/HDI-Project/FeatureHub  
 来自麻省理工学院 HDI 实验室的另一个项目，FeatureHub 建立在 JupyterHub 之上，可以让数据科学家在开发特征工程方法时进行协作。FeatureHub 会自动给生成的特征“打分”，以确定模型的总体价值。
 
-## 超参数优化器
+### 超参数优化器
 #### Skopt
 项目地址：https://scikit-optimize.github.io/  
 Skopt 是一个超参数优化库，包括随机搜索、贝叶斯搜索、决策森林和梯度提升树。这个库提供了可靠的优化方法，不过这些模型在给定较小的搜索空间和良好的初始估计值时表现最佳。
@@ -66,10 +66,13 @@ HORD 是一种用于超参数优化的独立算法。它为黑盒模型生成一
 项目地址：https://github.com/ilija139/HORD  
 ENAS-pytorch 使用 pytorch 实现了高效的神经架构搜索。它通过共享参数来实现最快的网络，非常适用于深度学习架构搜索。
 
+#### auto-keras
+项目地址：https://github.com/jhfjhfj1/autokeras  
+Keras 架构和超参数搜索库
+
 ### 其他开源解决方案
 这些解决方案要么与前面提到的解决方案很相似，要么仍在开发当中。在这里列在供参考：  
 Gpy/GpyOpt（高斯过程超优化库）  
-auto-keras（Keras 架构和超参数搜索库）  
 randopt（实验管理和超参数搜索库）
 
 ### 付费解决方案
