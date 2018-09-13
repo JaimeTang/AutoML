@@ -24,8 +24,8 @@ boruta 通过创建由目标特征的随机排序值组成的合成特征来确�
 #### FeatureHub
 项目地址：https://github.com/HDI-Project/FeatureHub  
 来自麻省理工学院 HDI 实验室的另一个项目，FeatureHub 建立在 JupyterHub 之上，可以让数据科学家在开发特征工程方法时进行协作。FeatureHub 会自动给生成的特征“打分”，以确定模型的总体价值。
-超参数优化器
 
+## 超参数优化器
 #### Skopt
 项目地址：https://scikit-optimize.github.io/  
 Skopt 是一个超参数优化库，包括随机搜索、贝叶斯搜索、决策森林和梯度提升树。这个库提供了可靠的优化方法，不过这些模型在给定较小的搜索空间和良好的初始估计值时表现最佳。
