@@ -107,10 +107,3 @@ H2O 是一个使用 Java 开发的机器学习平台，它在与机器学习库�
 #### TPOT
 项目地址：https://github.com/EpistasisLab/tpot  
 TPOT（基于树的管道优化工具）是一种用于查找和生成最佳数据科学管道代码的遗传编程框架。TPOT 从 sklearn 中获取算法，与其他自动机器学习框架一样。TPOT 最大的优势在于其独特的优化方法，可以提供更多独特的管道。它还提供了一个将训练好的管道直接转换为代码的工具，这对于希望进一步调整生成模型的数据科学家来说是一个很大的好处。
-
-### [Gitbook](https://legacy.gitbook.com/@wizardforcel)  
-#### 《SciPy Lecture Notes 中文版》  
-连接地址：https://legacy.gitbook.com/book/wizardforcel/scipy-lecture-notes/details
-
-#### 《Scikit-learn 秘籍》  
-连接地址：https://wizardforcel.gitbooks.io/sklearn-cookbook/content/
