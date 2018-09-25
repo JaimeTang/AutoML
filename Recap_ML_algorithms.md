@@ -4,7 +4,8 @@
 连接地址：https://legacy.gitbook.com/book/wizardforcel/scipy-lecture-notes/details
 
 #### 《Scikit-learn 秘籍》  
-连接地址：https://wizardforcel.gitbooks.io/sklearn-cookbook/content/
+连接地址：https://wizardforcel.gitbooks.io/sklearn-cookbook/content/  
+
 
 Overview of methods  
 ---
@@ -12,6 +13,7 @@ Overview of methods
 [Overview of k-NN](http://scikit-learn.org/stable/modules/neighbors.html)(sklearn's documentation)  
 [Overview of Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)(sklearn's documentation)  
 [Overview of Decision Trees](http://scikit-learn.org/stable/modules/tree.html)(sklearn's documentation)  
+[Decision Tree](https://en.wikipedia.org/wiki/Decision_tree_learning)(Wiki)  
 Overview of algorithms and parameters in [H2O documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science.html)    
 
 Additional Tools  
