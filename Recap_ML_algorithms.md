@@ -50,3 +50,10 @@ Libraries to work with sparse CTR-like data: [LibFM](http://www.libfm.org/), [Li
 Another tree-based method: RGF ([implemetation](https://github.com/baidu/fast_rgf), [paper](https://arxiv.org/pdf/1109.0887.pdf))  
 Python distribution with all-included packages: [Anaconda](https://www.continuum.io/what-is-anaconda)  
 [Blog "datas-frame" (contains posts about effective Pandas usage)](https://tomaugspurger.github.io/)  
+
+特征预处理
+---
+* 数字特征  
+* 类别和顺序特征  
+* 时间和坐标特征  
+* 缺失值  
