@@ -25,3 +25,28 @@ Additional Tools
 Frameworks for Neural Nets: [Keras](https://keras.io/),[PyTorch](http://pytorch.org/),[TensorFlow](https://www.tensorflow.org/),[MXNet](http://mxnet.io/),[Lasagne](https://lasagne.readthedocs.io/en/latest/)  
 [Example from sklearn with different decision surfaces](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)  
 [Arbitrary order factorization machines](https://github.com/geffy/tffm)  
+
+knowledge of basic ML algorithms
+---
+[Explanation of Random Forest](https://www.datasciencecentral.com/profiles/blogs/random-forests-explained-intuitively)  
+[Explanation/Demonstration of Gradient Boosting](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)  
+[Example of kNN](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)  
+
+StandCloud Computing
+---
+[AWS](https://aws.amazon.com/cn/), [Google Cloud](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/zh-cn/)  
+
+AWS spot option
+---
+[Overview of Spot mechanism](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html)
+[Spot Setup Guide](https://datasciencebowl.com/aws_guide/)  
+
+Stack and packages
+---
+[Basic SciPy stack (ipython, numpy, pandas, matplotlib)](https://www.scipy.org/)  
+[Jupyter Notebook](https://jupyter.org/)  
+[Stand-alone python tSNE package](https://github.com/danielfrg/tsne)  
+Libraries to work with sparse CTR-like data: [LibFM](http://www.libfm.org/), [LibFFM]()  
+Another tree-based method: RGF ([implemetation](https://github.com/baidu/fast_rgf), [paper](https://arxiv.org/pdf/1109.0887.pdf))  
+Python distribution with all-included packages: [Anaconda](https://www.continuum.io/what-is-anaconda)  
+[Blog "datas-frame" (contains posts about effective Pandas usage)](https://tomaugspurger.github.io/)  
