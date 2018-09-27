@@ -1,6 +1,6 @@
 Gitbook
 ---
-地址：https://legacy.gitbook.com/@wizardforcel) 
+地址：https://legacy.gitbook.com/@wizardforcel  
 
 《SciPy Lecture Notes 中文版》 
 ---
