@@ -1,7 +1,7 @@
 数学学习
 ---
 [Brilliant](https://brilliant.org)  
-[Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)  
+[mathematics-machine-learning Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)  
 
 ML课程
 ---
