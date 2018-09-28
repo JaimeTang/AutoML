@@ -60,9 +60,9 @@ Scipy:https://docs.scipy.org/doc/scipy-0.16.1/reference/generated/scipy.stats.ms
 
 Feature preprocessing
 ---
-[Preprocessing in Sklearn](http://scikit-learn.org/stable/modules/preprocessing.html)
-[Andrew NG about gradient descent and feature scaling](https://www.coursera.org/learn/machine-learning)
-[Feature Scaling and the effect of standardization for machine learning algorithms](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)  
+[Preprocessing in Sklearn](http://scikit-learn.org/stable/modules/preprocessing.html)  
+[Andrew NG about gradient descent and feature scaling](https://www.coursera.org/learn/machine-learning)  
+[Feature Scaling and the effect of standardization for machine learning algorithms](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)    
 
 Feature generation
 ---
