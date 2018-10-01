@@ -64,6 +64,10 @@ Feature preprocessing
 [Andrew NG about gradient descent and feature scaling](https://www.coursera.org/learn/machine-learning)  
 [Feature Scaling and the effect of standardization for machine learning algorithms](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)    
 
+Feature Important
+---
+MARS, Random Forest and Gradient Boosted Machines  
+
 Feature generation
 ---
 [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)  
