@@ -2,6 +2,10 @@
 ---
 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome)
 
+Blog
+---
+https://machinelearningmastery.com/blog/
+
 Overview of methods  
 ---
 [Scikit-Learn (or sklearn) library](http://scikit-learn.org/stable/)   
