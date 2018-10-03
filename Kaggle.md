@@ -73,6 +73,17 @@ Feature generation
 [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)  
 [Discussion of feature engineering on Quora](https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering)  
 
+Feature extraction
+---
+* PCA
+* Unsupervised clustering methods
+
+Feature selection
+---
+* [Stepwise regression](https://www.cnblogs.com/sumuncle/p/5647722.html)
+* [An Introduction to Feature Selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
+* Regularization methods LASSO
+
 Feature extraction from text
 ---
 ### Bag of words
