@@ -87,6 +87,8 @@ Feature selection
 * [Stepwise regression](https://www.cnblogs.com/sumuncle/p/5647722.html)
 * [An Introduction to Feature Selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
 * Regularization methods LASSO
+* [Feature Selection to Improve Accuracy and Decrease Training Time](https://machinelearningmastery.com/feature-selection-to-improve-accuracy-and-decrease-training-time/)
+* [Feature Selection in Python with Scikit-Learn](https://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/)
 
 Feature extraction from text
 ---
