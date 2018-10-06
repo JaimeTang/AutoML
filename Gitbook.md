@@ -9,3 +9,7 @@ Gitbook
 《Scikit-learn 秘籍》  
 ---
 连接地址：https://wizardforcel.gitbooks.io/sklearn-cookbook/content/  
+
+FreeTechBook
+---
+地址：http://www.freetechbooks.com/
