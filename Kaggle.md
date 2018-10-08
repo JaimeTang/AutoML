@@ -1,3 +1,34 @@
+Python Project Template
+---
+
+### 1. Prepare Problem  
+a) Load libraries  
+b) Load dataset  
+
+### 2. Summarize Data  
+a) Descriptive statistics  
+b) Data visualizations  
+ 
+###  3. Prepare Data  
+a) Data Cleaning  
+b) Feature Selection  
+c) Data Transforms  
+
+###  4. Evaluate Algorithms  
+a) Split-out validation dataset  
+b) Test options and evaluation metric  
+c) Spot Check Algorithms  
+d) Compare Algorithms  
+
+### 5. Improve Accuracy  
+a) Algorithm Tuning  
+b) Ensembles  
+
+###  6. Finalize Model
+a) Predictions on validation dataset  
+b) Create standalone model on entire training dataset  
+c) Save model for later use 
+
 视频课程
 ---
 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome)
@@ -75,6 +106,7 @@ MARS, Random Forest and Gradient Boosted Machines
 Feature generation
 ---
 [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)  
+[Feature engineering](https://www.quora.com/What-are-some-general-tips-on-feature-selection-and-engineering-that-every-data-scientist-should-know)
 [Discussion of feature engineering on Quora](https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering)  
 
 Feature extraction
