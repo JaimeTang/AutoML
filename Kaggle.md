@@ -127,7 +127,8 @@ Feature extraction from images
 * [How to Retrain Inception's Final Layer for New Categories in Tensorflow](https://www.tensorflow.org/tutorials/image_retraining)
 * [Fine-tuning Deep Learning Models in Keras](https://www.tensorflow.org/tutorials/image_retraining)
 
-### Visualization tools
+Visualization tools
+---
 * [Seaborn](https://seaborn.pydata.org/) 
 * [Plotly](https://plot.ly/python/)  
 * [Bokeh](https://github.com/bokeh/bokeh)  
