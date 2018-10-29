@@ -157,3 +157,10 @@ Ranking
 Clustering
 ---
 * [Evaluation metrics for clustering](http://nlp.uned.es/docs/amigo2007a.pdf)  
+
+Hyper-parameters Turning
+---
+* [Tuning the hyper-parameters of an estimator (sklearn)](http://scikit-learn.org/stable/modules/grid_search.html)  
+* Optimizing hyperparameters with hyperopt  
+* [Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)  
+
