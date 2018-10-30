@@ -164,3 +164,7 @@ Hyper-parameters Turning
 * Optimizing hyperparameters with hyperopt  
 * [Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)  
 
+Competitions Tips
+---
+* [Far0n's framework for Kaggle competitions "kaggletils"](https://github.com/Far0n/kaggletils)  
+* [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
