@@ -33,6 +33,10 @@ c) Save model for later use
 ---
 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome)
 
+Blog
+---
+https://machinelearningmastery.com/blog/
+
 Overview of methods  
 ---
 [Scikit-Learn (or sklearn) library](http://scikit-learn.org/stable/)   
@@ -95,11 +99,28 @@ Feature preprocessing
 [Andrew NG about gradient descent and feature scaling](https://www.coursera.org/learn/machine-learning)  
 [Feature Scaling and the effect of standardization for machine learning algorithms](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)    
 
+Feature Important
+---
+MARS, Random Forest and Gradient Boosted Machines  
+
 Feature generation
 ---
 [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)  
 [Feature engineering](https://www.quora.com/What-are-some-general-tips-on-feature-selection-and-engineering-that-every-data-scientist-should-know)
 [Discussion of feature engineering on Quora](https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering)  
+
+Feature extraction
+---
+* PCA
+* Unsupervised clustering methods
+
+Feature selection
+---
+* [Stepwise regression](https://www.cnblogs.com/sumuncle/p/5647722.html)
+* [An Introduction to Feature Selection](https://machinelearningmastery.com/an-introduction-to-feature-selection/)
+* Regularization methods LASSO
+* [Feature Selection to Improve Accuracy and Decrease Training Time](https://machinelearningmastery.com/feature-selection-to-improve-accuracy-and-decrease-training-time/)
+* [Feature Selection in Python with Scikit-Learn](https://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/)
 
 Feature extraction from text
 ---
@@ -185,3 +206,9 @@ Interactions
 ---
 * [Facebook Research's paper about extracting categorical features from trees](https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/)  
 * [Example: Feature transformations with ensembles of trees (sklearn)](http://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html)  
+
+Ensembling
+---
+* [Kaggle ensembling guide at MLWave.com (overview of approaches)](https://mlwave.com/kaggle-ensembling-guide/)  
+* [StackNet — a computational, scalable and analytical meta modelling framework (by KazAnova)](https://github.com/kaz-Anova/StackNet)  
+* [Heamy — a set of useful tools for competitive data science (including ensembling)](https://github.com/rushter/heamy)  
