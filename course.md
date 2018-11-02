@@ -7,6 +7,10 @@ Khan Academy is a great resource right up to 1st or 2nd year undergraduate mater
 Grant Sanderson has a great series of videos developing mathematical intuition on YouTube, which you can reach through his site http://www.3blue1brown.com  
 Wikipedia gets better every year - and the linear algebra wikipedia pages are actually pretty good. https://en.wikipedia.org/wiki/Linear_algebra  
 
+统计
+---
+http://onlinestatbook.com/2/index.html  
+
 Machine Learning
 ---
 目前，这套课程可以在Fast.ai上获取全套。课程总体介绍：  
