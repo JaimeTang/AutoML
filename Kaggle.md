@@ -212,3 +212,10 @@ Ensembling
 * [Kaggle ensembling guide at MLWave.com (overview of approaches)](https://mlwave.com/kaggle-ensembling-guide/)  
 * [StackNet — a computational, scalable and analytical meta modelling framework (by KazAnova)](https://github.com/kaz-Anova/StackNet)  
 * [Heamy — a set of useful tools for competitive data science (including ensembling)](https://github.com/rushter/heamy)  
+
+Past solutions
+---
+* http://ndres.me/kaggle-past-solutions/  
+* https://www.kaggle.com/wiki/PastSolutions  
+* http://www.chioka.in/kaggle-competition-solutions/  
+* https://github.com/ShuaiW/kaggle-classification/
