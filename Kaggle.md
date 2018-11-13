@@ -224,3 +224,8 @@ Past solutions
 * https://www.kaggle.com/wiki/PastSolutions  
 * http://www.chioka.in/kaggle-competition-solutions/  
 * https://github.com/ShuaiW/kaggle-classification/
+
+论文复现
+---
+* [Matthew Rahtz的博客文章《从复现一篇深度强化学习论文学到的教训》](http://amid.fish/reproducing-deep-rl)
+* [S. Zayd Enam的博客文章《为什么机器学习“难”？》](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
