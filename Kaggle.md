@@ -213,7 +213,6 @@ Ensembling
 * [StackNet — a computational, scalable and analytical meta modelling framework (by KazAnova)](https://github.com/kaz-Anova/StackNet)  
 * [Heamy — a set of useful tools for competitive data science (including ensembling)](https://github.com/rushter/heamy)  
 * [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)  
-* [模型融合方法概述](https://zhuanlan.zhihu.com/p/25836678)  
 * [如何在 Kaggle 首战中进入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
 * [Pipeline](https://github.com/ChenglongChen/Kaggle_CrowdFlower)
 * [Beating Kaggle the easy way](http://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf)
