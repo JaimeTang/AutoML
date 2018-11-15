@@ -236,4 +236,13 @@ Past solutions
 论文复现
 ---
 * [Matthew Rahtz的博客文章《从复现一篇深度强化学习论文学到的教训》](http://amid.fish/reproducing-deep-rl)
-* [S. Zayd Enam的博客文章《为什么机器学习“难”？》](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+* [S. Zayd Enam的博客文章《为什么机器学习“难”？》](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)  
+* [Mendeley](https://www.mendeley.com/)  
+* [Paperpile](https://paperpile.com/)  
+* [Zotero](https://www.zotero.org/)  
+* [Shortscience](http://www.shortscience.org/)  
+* [OpenReview](https://openreview.net/)  
+* [Scirate](https://scirate.com/)  
+* [Papers With Code](https://paperswithcode.com/)  
+* [Github pwc](https://github.com/zziz/pwc)  
+* [GitXiv](http://www.gitxiv.com/)  
