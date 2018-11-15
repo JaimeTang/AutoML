@@ -210,7 +210,6 @@ Interactions
 Ensembling
 ---
 * [Kaggle ensembling guide at MLWave.com (overview of approaches)](https://mlwave.com/kaggle-ensembling-guide/)  
-* [StackNet — a computational, scalable and analytical meta modelling framework (by KazAnova)](https://github.com/kaz-Anova/StackNet)  
 * [Heamy — a set of useful tools for competitive data science (including ensembling)](https://github.com/rushter/heamy)  
 * [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)  
 * [如何在 Kaggle 首战中进入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
@@ -223,6 +222,7 @@ Ensembling
 
 Here are some written in other languages:
 * [Python based but built on a Redis backend](https://github.com/reiinakano/xcessiv)  
+* [StackNet — a computational, scalable and analytical meta modelling framework (by KazAnova)](https://github.com/kaz-Anova/StackNet)  
 
 Hope this helps!
 
